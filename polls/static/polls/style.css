@@ -2,7 +2,10 @@ body{
   background: #F4F4CC;
   text-align: center;
 }
-
+h1{
+  color: purple;
+}
 li a {
     color: green;
+    text-decoration: none;
 }
